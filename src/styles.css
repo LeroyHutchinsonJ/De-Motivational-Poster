@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.titlePlug {
+  position: absolute;
+  top: 380px;
+  color: white;
+  left: 15px;
+}
+.textPlug {
+  position: absolute;
+  top: 400px;
+  color: white;
+  left: 225px;
+}
+.imagePlug {
+  border: 2px solid black;
+}
